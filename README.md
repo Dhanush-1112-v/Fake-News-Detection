@@ -150,5 +150,12 @@ GitHub: https://github.com/Dhanush-1112-v
 ⭐ If you found this project useful, please give it a star on GitHub!
 ---
 
-## Installation and Setup
-1. Clone this repository:
+# Fake News Detection using Ensemble Machine Learning
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-Streamlit-red)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success)]()
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/Dhanush-1112-v/Fake-News-Detection/issues)
+[![Repo Size](https://img.shields.io/github/repo-size/Dhanush-1112-v/Fake-News-Detection)]()
+[![Stars](https://img.shields.io/github/stars/Dhanush-1112-v/Fake-News-Detection?style=social)]()
