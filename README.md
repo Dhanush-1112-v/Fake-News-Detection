@@ -135,7 +135,7 @@ See the LICENSE file for details.
 
 ## Author
 Sai Dhanush Vanjari  
-Email: dhanushvanjari@gmail.com  
+Email: jagarlapudidhanush@gmail.com  
 GitHub: https://github.com/Dhanush-1112-v
 
 ---
